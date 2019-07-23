@@ -14,3 +14,15 @@
 
 after_layout 版本为: ^1.0.7+2
 
+## Screenshots
+<table style={border:"none"}>
+<tr>
+<td><img src="https://github.com/zhang6321615/DespicableCharacter/blob/master/screenshots/1563890117220.png" alt="Home Screen" width="400"/></td>
+<td><img src="https://github.com/zhang6321615/DespicableCharacter/blob/master/screenshots/1563890140026.png" alt="Home Screen" width="400"/></td>
+</tr>
+<tr>
+<td><img src="https://github.com/zhang6321615/DespicableCharacter/blob/master/screenshots/1563890161902.png" alt="Home Screen" width="400"/></td>
+<td><img src="https://github.com/zhang6321615/DespicableCharacter/blob/master/screenshots/1563890182685.png" alt="Home Screen" width="400"/></td>
+</tr>
+</table>
+
